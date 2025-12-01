@@ -1,0 +1,11 @@
+{
+  "class": 0,
+  "instance_id": 11,
+  "num_branches": 1,
+  "num_main_nodes": 1,
+  "internode_lengths": [
+    0.005399379413574934,
+    0.004011236596852541
+  ],
+  "spacing_h": 0.0080885135364294
+}
